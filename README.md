@@ -1,10 +1,12 @@
-# Übersicht aller Skripte
+# Overview of all scripts
 
 ## translate
+Translates your selected english text to german.
+
 Übersetzt den markierten englischen Text ins Deutsche.  
-Voraussetzung ist der Benachrichtigungsdienst ```notify-send```  
-**Tipp**: Den Befehl auf einen Shortcut legen, z.B. ```SUPER+T```
+The notification service ```notify-send``` is required.  
+**Tip**: Put the command on a shortcut, e.g. ```SUPER+T```
 
 ## googlesearch
-Öffnet den Browser und startet eine Google-Suche mit dem markierten Text.  
-**Tipp**: Den Befehl auf einen Shortcut legen, z.B. ```SUPER+G```
+Opens you browser and runs a google search with your selected text.  
+**Tip**: Put the command on a shortcut, e.g. ```SUPER+G```
