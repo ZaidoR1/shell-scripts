@@ -2,8 +2,6 @@
 
 ## translate
 Translates your selected english text to german.
-
-Übersetzt den markierten englischen Text ins Deutsche.  
 The notification service ```notify-send``` is required.  
 **Tip**: Put the command on a shortcut, e.g. ```SUPER+T```
 
