@@ -1,7 +1,7 @@
 # Overview of all scripts
 
 ## translate
-Translates your selected english text to german.
+Translates your selected english text to german.  
 The notification service ```notify-send``` is required.  
 **Tip**: Put the command on a shortcut, e.g. ```SUPER+T```
 
