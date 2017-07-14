@@ -1,8 +1,7 @@
 #!/bin/bash
 
-# This script starts a google search with google-chrome of the selected phrase
-# Put it on a shortcut like WIN+g
-# Feel free to use this script
+# This script starts a google search of the selected phrase
+# Put it on a shortcut like SUPER+G
 # Created by Rene Kiupel
 
-google-chrome http://google.de/search?q=$(xsel -o | sed "s/[ \t]/%20/g")
+xdg-open http://google.de/search?q=$(xsel -o | sed "s/[ \t]/%20/g")
