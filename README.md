@@ -9,5 +9,5 @@ The notification service ```notify-send``` is required.
 ![result of translate](http://i.imgur.com/1RqQkiN.png)
 
 ## gsearch
-Opens you browser and runs a google search with your selected text.  
+Opens your browser and runs a google search with your selected text.  
 **Tip**: Put the command on a shortcut, e.g. ```SUPER+G```
