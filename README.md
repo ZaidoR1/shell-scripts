@@ -1,5 +1,5 @@
 # Overview of all scripts
-All scripts have been tested on Ubuntu with gnome 3.
+All scripts have been tested on Ubuntu-16.04 with Gnome 3.
 
 ## translate
 Translates your selected english text to german.  
